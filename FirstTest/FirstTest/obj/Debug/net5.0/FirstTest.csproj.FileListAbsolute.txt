@@ -1,0 +1,15 @@
+/Users/minjaecho/Desktop/Projects/FirstTest/FirstTest/bin/Debug/net5.0/FirstTest.deps.json
+/Users/minjaecho/Desktop/Projects/FirstTest/FirstTest/bin/Debug/net5.0/FirstTest.runtimeconfig.json
+/Users/minjaecho/Desktop/Projects/FirstTest/FirstTest/bin/Debug/net5.0/FirstTest.runtimeconfig.dev.json
+/Users/minjaecho/Desktop/Projects/FirstTest/FirstTest/bin/Debug/net5.0/FirstTest.dll
+/Users/minjaecho/Desktop/Projects/FirstTest/FirstTest/bin/Debug/net5.0/ref/FirstTest.dll
+/Users/minjaecho/Desktop/Projects/FirstTest/FirstTest/bin/Debug/net5.0/FirstTest.pdb
+/Users/minjaecho/Desktop/Projects/FirstTest/FirstTest/obj/Debug/net5.0/FirstTest.csproj.AssemblyReference.cache
+/Users/minjaecho/Desktop/Projects/FirstTest/FirstTest/obj/Debug/net5.0/FirstTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minjaecho/Desktop/Projects/FirstTest/FirstTest/obj/Debug/net5.0/FirstTest.AssemblyInfoInputs.cache
+/Users/minjaecho/Desktop/Projects/FirstTest/FirstTest/obj/Debug/net5.0/FirstTest.AssemblyInfo.cs
+/Users/minjaecho/Desktop/Projects/FirstTest/FirstTest/obj/Debug/net5.0/FirstTest.csproj.CoreCompileInputs.cache
+/Users/minjaecho/Desktop/Projects/FirstTest/FirstTest/obj/Debug/net5.0/FirstTest.dll
+/Users/minjaecho/Desktop/Projects/FirstTest/FirstTest/obj/Debug/net5.0/ref/FirstTest.dll
+/Users/minjaecho/Desktop/Projects/FirstTest/FirstTest/obj/Debug/net5.0/FirstTest.pdb
+/Users/minjaecho/Desktop/Projects/FirstTest/FirstTest/obj/Debug/net5.0/FirstTest.genruntimeconfig.cache
