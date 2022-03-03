@@ -80,7 +80,7 @@ summary(tuned)
 
 p <- predict(svmfit, test, type='class')
 plot(p)
-table(p,test[,3], dnn=c("Actual", "Predicted"))
+table(test[,3], p, dnn=c("Actual", "Predicted"))
 mean(p==test[,3])
 
 #First, change df. into matrix, scale, and then change it back to df. 
